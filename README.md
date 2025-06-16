@@ -1,12 +1,77 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React and Vite, showcasing my projects and skills.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design that works on all devices
+- Modern and clean UI
+- Project showcase with GitHub links
+- About section with personal information
+- Contact information
+- Smooth animations and transitions
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/pragathees03/portfolio_off.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd portfolio_off
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+## 🏗️ Project Structure
+
+```
+portfolio_off/
+├── public/
+│   │   └── myphoto.jpg
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+## 🚀 Deployment
+
+The project is built using Vite and can be deployed to any static hosting service like:
+- GitHub Pages
+- Netlify
+- Vercel
+- Firebase Hosting
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+## 👤 Author
+
+Pragathees
+- GitHub: [@pragathees03](https://github.com/pragathees03)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/pragathees03/portfolio_off/issues).
